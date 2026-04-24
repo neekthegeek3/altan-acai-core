@@ -1,4 +1,4 @@
-# Altan ACAI Core
+# Automation Umbrella Core
 ### The Framework for Industry-Specific "Department Eliminators"
 
 Altan ACAI is a high-level strategic framework designed to automate administrative heavy lifting in regulated industries. By combining enterprise cloud architecture (AWS) with sovereign AI logic (Bedrock), we build systems that don't just "process" data they act as digital specialists.
@@ -6,7 +6,7 @@ Altan ACAI is a high-level strategic framework designed to automate administrati
 ---
 
 ## 🚀 Active Deployments (Infrastructure Spikes)
-The Altan ACAI ecosystem consists of modular, industry specific "spikes" built on our core security and ingestion standards:
+The Automation Umbrella ecosystem consists of modular, industry specific "spikes" built on our core security and ingestion standards:
 
 * **[Automated Medical Billing](https://github.com/neekthegeek3/automated-medical-billing-iac):** * **Industry:** Healthcare
     * **Status:** Production Ready
@@ -15,7 +15,7 @@ The Altan ACAI ecosystem consists of modular, industry specific "spikes" built o
 ---
 
 ## 🗺️ Framework Roadmap (Upcoming Spikes)
-We are currently adapting the Altan Core for the following verticals:
+We are currently adapting the Automation Umbrella Core for the following verticals:
 
 * **[Legal Discovery Sovereign]:** Automated chronology and conflict detection for litigation teams.
 * **[Construction Bid-Triage]:** AI driven RFP analysis and automated material waste auditing.
